@@ -19,7 +19,11 @@ Blockchain technology has disrupted the digital landscape, and I've eagerly embr
  - 📫 You can reach me at devpioneer@proton.me.
 
 Happy coding! 🚀
-[![trophy](https://github-profile-trophy.vercel.app/?username=devpioneer007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">🏆Devpioneer007's GitHub Profile Trophy</h2>
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=devpioneer007&theme=onedark&margin-w=15&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 DevPioneer007/DevPioneer007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
