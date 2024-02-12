@@ -24,7 +24,7 @@ Happy coding! 🚀
   <h2 align="center">🏆Devpioneer007's GitHub Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devpioneer007&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devpioneer007&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5&column=9)]
 <!---
 DevPioneer007/DevPioneer007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
