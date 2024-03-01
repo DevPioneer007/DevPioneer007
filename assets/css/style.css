@@ -827,7 +827,7 @@ main {
 
 .timeline .title-wrapper {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   gap: 15px;
   margin-bottom: 25px;
 }
@@ -899,6 +899,11 @@ main {
 
 .skills-item:not(:last-child) {
   margin-bottom: 15px;
+}
+
+.title-wrapper {
+  display: flex;
+  /* justify-content: space-between; */
 }
 
 .skill .title-wrapper {
@@ -2037,4 +2042,20 @@ textarea.form-input::-webkit-resizer {
   .timeline-text {
     max-width: 700px;
   }
+}
+
+.gap-1 {
+  gap: 4px;
+}
+
+.gap-2 {
+  gap: 8px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
 }
